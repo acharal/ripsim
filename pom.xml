@@ -53,7 +53,7 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.org/acharal/ripsim</connection>
+    <connection>scm:git:https://github.org/acharal/ripsim.git</connection>
     <tag>HEAD</tag>
     <url>https://github.org/acharal/ripsim</url>
   </scm>
